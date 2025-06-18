@@ -16,7 +16,7 @@ and more vtuber in general.
     <img width="250px" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denka315xp&show_icons=true&include_all_commits=true&count_private=true&theme=dark"  alt=""/>
 </a>
 <a href="#">
-  <img width="250px" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denka315xp&theme=dark&layout=compact" alt=""/>
+  <img width="250px" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denka315xp&theme=dark&layout=compact&langs_count=4" alt=""/>
 </a>
 
 ### 📓 My Research Note [Visit](https://github.com/denka-note)
